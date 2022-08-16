@@ -1,30 +1,7 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - August 16,2022
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: Decided not to wait until the start of a new month or season &amp; just jump right in. I didn’t know where to start so I signed up for Free Code Camp &amp; did 33 lessons of Responsive Web Design. I also signed up for GitHub &amp; created my first repo. Pushing beyond 💯!!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1559571058742665219?ref_src=twsrc%5Etfw">August 16, 2022</a></blockquote> 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day2:
