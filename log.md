@@ -6,4 +6,4 @@
 
 ### Day2:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2/ <a href="https://twitter.com/hashtag/100daysofcode?src=hash&amp;ref_src=twsrc%5Etfw">#100daysofcode</a> or should I say 100 days of prerequisites to coding because so far all I’ve been doing is trying to set up what programs and guides I’m going to be using. I finally learned how to install git in windows powershell. Not sure, but this all feels like coding to me!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1560084725464694784?ref_src=twsrc%5Etfw">August 18, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2/ <a href="https://twitter.com/hashtag/100daysofcode?src=hash&amp;ref_src=twsrc%5Etfw">#100daysofcode</a> or should I say 100 days of prerequisites to coding because so far all I’ve been doing is trying to set up what programs and guides I’m going to be using. I finally learned how to install git in windows powershell. Not sure, but this all feels like coding to me!</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1560084725464694784?ref_src=twsrc%5Etfw">August 17, 2022</a></blockquote>
