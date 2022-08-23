@@ -22,4 +22,7 @@
 ### Day 6:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">6/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: I have Lo-Fi Boom Bap playing 24/7 with heavy rotation at home thanks to <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a>. Decided to look around my pc today. Tried fixing missing icon images for two links on my desktop. Found a picture from 5 years and 5 months ago. (I never finished the book.) <a href="https://t.co/pVMNT5elpJ">pic.twitter.com/pVMNT5elpJ</a></p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1561450585635049473?ref_src=twsrc%5Etfw">August 21, 2022</a></blockquote>
 
+### Day 7:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">7/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: as part of learning I decided to go vanilla. Vanilla notepad, vanilla console, vanilla browser. Microsoft Visual Studio kicked my butt. I some how broke my index.htm files trying to revert back to a previous state. Edge’s developer tools also look like VS now:(</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1561798473539887106?ref_src=twsrc%5Etfw">August 22, 2022</a></blockquote>
+
 
