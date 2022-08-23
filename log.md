@@ -19,5 +19,7 @@
 ### Day 5:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">5/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: 30 mins away from missing a days of code entry 😖. Comfortable with html, css and git. I signed up for Microsoft Learn because it’s time to stick to a code editor and so far Visual Studio seems to be it. So afraid of missing a day! Good for scheduling practice.</p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1561194076032180227?ref_src=twsrc%5Etfw">August 20, 2022</a></blockquote>
 
+### Day 6:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">6/ <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a>: I have Lo-Fi Boom Bap playing 24/7 with heavy rotation at home thanks to <a href="https://twitter.com/freeCodeCamp?ref_src=twsrc%5Etfw">@freeCodeCamp</a>. Decided to look around my pc today. Tried fixing missing icon images for two links on my desktop. Found a picture from 5 years and 5 months ago. (I never finished the book.) <a href="https://t.co/pVMNT5elpJ">pic.twitter.com/pVMNT5elpJ</a></p>&mdash; Jose D. Sanchez (@JDS_85) <a href="https://twitter.com/JDS_85/status/1561450585635049473?ref_src=twsrc%5Etfw">August 21, 2022</a></blockquote>
 
 
